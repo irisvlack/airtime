@@ -1,0 +1,11 @@
+user_id	age	gender	location	political_affiliation	number_of_posts	average_likes_per_post	average_comments_per_post	did_vote
+1	25	female	Los Angeles	Democrat	30	100	20	TRUE
+2	32	male	New York City	Republican	50	200	30	FALSE
+3	18	female	Chicago	Independent	10	50	10	TRUE
+4	45	male	San Francisco	Democrat	20	150	25	TRUE
+5	30	female	Atlanta	Republican	40	300	40	FALSE
+6	52	male	Dallas	Independent	15	100	20	TRUE
+7	21	female	Seattle	Democrat	30	200	30	TRUE
+8	48	male	Denver	Republican	50	300	40	FALSE
+9	27	female	Houston	Independent	10	50	10	TRUE
+10	35	male	Phoenix	Democrat	20	150	25	TRUE
